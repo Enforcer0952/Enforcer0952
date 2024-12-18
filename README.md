@@ -15,18 +15,18 @@ I’m currently diving into:
 - **Discord.js**
 - **HTML & CSS**
 - **Python**
-- 
+  
 ## 🏫 Currently Studying HBO-ICT at Windesheim
-Im in my first year at College
+- Im in my first year at College
 
 ## 📫 Reach Out
-Feel free to reach out to me on Discord at **Enforcer0952**.
+- Feel free to reach out to me on Discord at **Enforcer0952**.
 
 ## 😄 Pronouns
-**He/Him**
+- **He/Him**
 
 ## ⚡ Fun Fact
-I actually have a girlfriend whom I love very much!
+- I actually have a girlfriend whom I love very much!
 
 ## 💻 Experience
 I have experience with the following operating systems:
